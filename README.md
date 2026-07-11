@@ -226,8 +226,3 @@ Drop PDF/TXT files into the sidebar uploader, then click **"🔄 Sync Uploaded F
 - [ ] Support re-ranking (BM25 + dense hybrid) for higher precision on short queries
 - [ ] Deploy demo instance
 
----
-
-## 📄 License
-
-This project is for educational/portfolio purposes. Sample HR policy documents included are publicly available reference materials used for demonstration only.
